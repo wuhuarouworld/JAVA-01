@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+                        http://www.springframework.org/schema/beans/spring-beans-3.2.xsd
+                        http://www.springframework.org/schema/context
+                        http://www.springframework.org/schema/context/spring-context-3.2.xsd http://www.springframework.org/schema/aop https://www.springframework.org/schema/aop/spring-aop.xsd">
+
+       <bean id="food01" class="xml.Food">
+            <property name="name" value="锅包肉" />
+       </bean>
+
+       <bean id="food02" class="xml.Food">
+           <property name="name" value="茄子"/>
+       </bean>
+
+       <bean id="person" class="xml.Person">
+           <property name="foods">
+               <list>
+                   <ref bean="food01" />
+                   <ref bean="food02" />
+               </list>
+           </property>
+       </bean>
+
+       <context:component-scan base-package="annotation" />
+</beans>
