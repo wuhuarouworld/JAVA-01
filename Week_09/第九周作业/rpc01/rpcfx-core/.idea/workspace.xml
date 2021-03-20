@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a73a148d-1073-492c-9d6b-8b76dec1db89" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../04fx/spring01/src/main/java/io/kimmking/spring01/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../04fx/spring01/src/main/java/io/kimmking/spring02/HelloBeanPostProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03concurrency/0301/src/main/java/java0/conc0301/op/Join.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03concurrency/0301/src/main/java/java0/conc0301/op/Join.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03concurrency/0301/src/main/java/java0/conc0301/sync/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03concurrency/0301/src/main/java/java0/conc0301/sync/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03concurrency/0301/src/main/java/java0/conc0301/sync/Thread3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03concurrency/0301/src/main/java/java0/conc0301/sync/Thread3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03concurrency/0301/src/main/java/java0/conc0302/atomic/AtomicCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03concurrency/0301/src/main/java/java0/conc0302/atomic/AtomicCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03concurrency/0301/src/main/java/java0/conc0302/atomic/AtomicMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03concurrency/0301/src/main/java/java0/conc0302/atomic/AtomicMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03concurrency/0301/src/main/java/java0/conc0302/lock/ConditionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03concurrency/0301/src/main/java/java0/conc0302/lock/ConditionDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03concurrency/0301/src/main/java/java0/conc0302/lock/LockMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03concurrency/0301/src/main/java/java0/conc0302/lock/LockMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03concurrency/0301/src/main/java/java0/conc0302/lock/LockSupportDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03concurrency/0301/src/main/java/java0/conc0302/lock/LockSupportDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03concurrency/0301/src/main/java/java0/conc0302/lock/TestFair.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03concurrency/0301/src/main/java/java0/conc0302/lock/TestFair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03concurrency/0301/src/main/java/java0/conc0303/collection/ConcurrentHashMapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03concurrency/0301/src/main/java/java0/conc0303/collection/ConcurrentHashMapDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03concurrency/0301/src/main/java/java0/conc0303/collection/CopyOnWriteArrayListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03concurrency/0301/src/main/java/java0/conc0303/collection/CopyOnWriteArrayListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03concurrency/0301/src/main/java/java0/conc0303/collection/CopyOnWriteArrayListDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03concurrency/0301/src/main/java/java0/conc0303/collection/CopyOnWriteArrayListDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03concurrency/0301/src/main/java/java0/conc0303/future/CompletableFutureDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03concurrency/0301/src/main/java/java0/conc0303/future/CompletableFutureDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../04fx/spring01/src/main/java/io/kimmking/spring02/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../04fx/spring01/src/main/java/io/kimmking/spring02/School.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../04fx/spring01/src/main/java/io/kimmking/spring02/SpringDemo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../04fx/spring01/src/main/java/io/kimmking/spring02/SpringDemo01.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1q1PtGnqIY0UKrTfMkR3oPXKeTG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a73a148d-1073-492c-9d6b-8b76dec1db89" name="Default Changelist" comment="" />
+      <created>1616244337000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616244337000</updated>
+      <workItem from="1616244338562" duration="42000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
